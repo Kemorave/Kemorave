@@ -9,9 +9,4 @@
 
 ###
  
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/kemorave/kemorave/blob/output/snake.svg" alt="Snake animation" />
-
-###
+ 
