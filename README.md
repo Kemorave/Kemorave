@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ibrahim and I'm an intermidate .Net developer, nice to meet you</h2>
+[//]: <> (<h2 align="left">Hi 👋! My name is Ibrahim and I'm an intermidate .Net developer, nice to meet you</h2>)
 
 ###
 
