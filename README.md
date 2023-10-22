@@ -1,5 +1,4 @@
- 
- <h2 align="center">Hi 👋! My name is Ibrahim and I'm a CS enthusiast, from Sudan!</h2>
+  <h2 align="center">Hi 👋! My name is Ibrahim and I'm a CS enthusiast, from Sudan!</h2>
 
 <div align="center">
   <img src="https://ghreadmestatsfork.vercel.app/api?username=Kemorave&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -23,11 +22,11 @@
  <br>
  <br>
 
-<div align="center"  margin="10px;">
+<div align="center" style="display:flex;flex-direction:column" margin="10px;">
   <a href="https://www.linkedin.com/in/ibrahim-dirar-482270206/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
- 
+[![wakatime](https://wakatime.com/badge/user/c05bbd6d-0ce8-47f5-a52f-4e8f4f1a94a7.svg)](https://wakatime.com/@c05bbd6d-0ce8-47f5-a52f-4e8f4f1a94a7)
 </div> 
  
  
