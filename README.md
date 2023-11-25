@@ -29,5 +29,9 @@
  
 </div> 
   <img src="https://wakatime.com/badge/user/c05bbd6d-0ce8-47f5-a52f-4e8f4f1a94a7.svg">
- 
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
