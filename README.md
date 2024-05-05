@@ -1,4 +1,4 @@
-  <h2 align="center">Hi 👋! My name is Ibrahim and I'm a frontend wizard, nice to meet you ! </h2>
+  <h2 align="center">Hi 👋! My name is Ibrahim and I'm a software wizard, nice to meet you ! </h2>
 
  <div align="center">
   <img src="https://ghreadmestatsfork.vercel.app/api?username=Kemorave&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
