@@ -29,7 +29,9 @@
   </a>
  
 </div> 
-  <img src="https://wakatime.com/badge/user/c05bbd6d-0ce8-47f5-a52f-4e8f4f1a94a7.svg">
+
+[![wakatime](https://wakatime.com/badge/user/c05bbd6d-0ce8-47f5-a52f-4e8f4f1a94a7.svg)](https://wakatime.com/@c05bbd6d-0ce8-47f5-a52f-4e8f4f1a94a7)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kemorave/Kemorave/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kemorave/Kemorave/output/github-contribution-grid-snake.svg">
