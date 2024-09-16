@@ -27,6 +27,9 @@
   <a href="https://www.linkedin.com/in/ibrahim-dirar-482270206/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+    <a href="https://www.frontendmentor.io/profile/Kemorave" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=frontendmentor&logo=frontendmentor&label=&color=white&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="frontendmentor logo"  />
+  </a>
  
 </div> 
  <a href="https://wakatime.com/@c05bbd6d-0ce8-47f5-a52f-4e8f4f1a94a7"><img src="https://wakatime.com/badge/user/c05bbd6d-0ce8-47f5-a52f-4e8f4f1a94a7.svg" alt="Total time coded since Feb 17 2023" /></a>
