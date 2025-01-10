@@ -46,7 +46,7 @@
   Checkout my upwork profile
   <br>
   <br>
-    <a href="https://www.upwork.com/freelancers/~01b0077dcde473a033?mp_source=share" target="_blank">
+    <a href="https://www.upwork.com/freelancers/~01b0077dcde473a033?viewMode=1&s=996364627857502209" target="_blank">
     <img src="https://img.shields.io/static/v1?message=upwork&logo=upwork&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="upwork logo"  />
   </a>
   <br>
