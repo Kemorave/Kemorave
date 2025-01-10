@@ -42,13 +42,27 @@
 <br>
 <h5>
   Want to see more ?
-  <br>
+  </h5>
+    <br>
+<div align="center" >
+ 
+<h5>
   Checkout my upwork profile
   <br>
   <br>
     <a href="https://www.upwork.com/freelancers/~01b0077dcde473a033?viewMode=1&s=996364627857502209" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=upwork&logo=upwork&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="upwork logo"  />
+    <img src="https://img.shields.io/static/v1?message=upwork&logo=upwork&label=&color=0077B5&logoColor=green&labelColor=&style=for-the-badge" height="35" alt="upwork logo"  />
   </a>
+</h5>
+<h5>
+  Checkout my mostaql profile
   <br>
-</h4>
+  <br>
+    <a href="https://mostaql.com/u/kemorave/portfolio" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=mostaql&logo=mostaql&label=&color=0077B5&logoColor=blue&labelColor=&style=for-the-badge" height="35" alt="mostaql logo"  />
+  </a>
+</h5>
+</div>
+  <br>
+
 
