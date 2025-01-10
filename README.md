@@ -39,3 +39,16 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kemorave/Kemorave/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
+<h5>
+  Want to see more ?
+  <br>
+  Checkout my upwork profile
+  <br>
+  <br>
+    <a href="https://www.upwork.com/freelancers/~01b0077dcde473a033?mp_source=share" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=upwork&logo=upwork&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="upwork logo"  />
+  </a>
+  <br>
+</h4>
+
